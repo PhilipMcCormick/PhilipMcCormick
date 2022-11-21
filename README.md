@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilipMcCormick
-- 👀 I’m interested in skateboarding, painting/drawing, reading, music, and whatever else that catches my attention.
+- 👀 I’m interested in skateboarding, painting/drawing, reading, and music.
 - 🌱 I’m currently studying Applied Economics at University of San Francisco. The program has a focus in Computer Science and Data Analytics.
 - 💞️ I’m looking to continue to strengthen my coding skills and work on interesting projects along the way.
 - 📫 email: phil.m.mccormick@gmail.com
